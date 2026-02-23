@@ -1,0 +1,6 @@
+2026-02-23 20:08:22 - User logged in
+2026-02-23 20:08:22 - User viewed dashboard
+2026-02-23 20:08:22 - User logged out
+2026-02-23 20:08:28 - User logged in
+2026-02-23 20:08:28 - User viewed dashboard
+2026-02-23 20:08:28 - User logged out
